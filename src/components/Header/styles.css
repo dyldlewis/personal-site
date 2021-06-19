@@ -3,4 +3,5 @@ ul {
   flex-direction: row;
   justify-content: space-around;
   list-style-type: none;
+  width: 100vw;
 }
