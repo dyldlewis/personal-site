@@ -1,3 +1,11 @@
+import "./styles.css";
+
 export default function WorkTiles() {
-  return <h1>This is a work tile</h1>;
+  return (
+    <div className="workPieces">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  );
 }
