@@ -5,6 +5,7 @@ import WorkTiles from "./components/WorkTiles";
 import WorkLinks from "./components/WorkLinks";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import SkillTiles from "./components/SkillTiles";
 import "./App.css";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <ProfilePicture />
       <Hero />
       <WorkTiles />
+      <SkillTiles />
       <WorkLinks />
       <Footer />
     </div>

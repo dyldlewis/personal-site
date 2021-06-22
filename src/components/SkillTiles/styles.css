@@ -1,0 +1,12 @@
+.skills {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 900px;
+}
+
+.skills > div {
+  border: solid white 1px;
+  padding: 5px;
+  margin: 20px;
+}
