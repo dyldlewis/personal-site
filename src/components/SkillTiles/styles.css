@@ -1,3 +1,9 @@
+.pageContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .skills {
   display: flex;
   justify-content: space-around;
@@ -6,7 +12,8 @@
 }
 
 .skills > div {
-  border: solid white 1px;
+  border: solid white 2px;
   padding: 5px;
   margin: 20px;
+  font-size: 24px;
 }
