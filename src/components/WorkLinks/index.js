@@ -1,3 +1,5 @@
+import GitHubLogo from "./GitHub-Mark-Light-64px.png";
+
 export default function WorkLinks() {
-  return <h1>This is a worklink component</h1>;
+  return <img src={GitHubLogo} />;
 }
