@@ -1,0 +1,10 @@
+.workLinks {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+  margin: 20px;
+}
+.logo {
+  width: 64px;
+  height: 64px;
+}
